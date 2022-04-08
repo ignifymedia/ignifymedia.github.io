@@ -1,6 +1,6 @@
-# portfolio
+# portfolio site
 
-Github page at padi.github.io/portfolio.
+Github page at ignifymedia.github.io.
 Simply put, it takes index.html and serves it to padi.github.io/portfolio.
 But to rapidly iterate on the content and feel, I use mobirise to build the site.
 
