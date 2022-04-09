@@ -1,18 +1,23 @@
 # portfolio site
 
-Github page at ignifymedia.github.io.
-Simply put, it takes index.html and serves it to padi.github.io/portfolio.
-But to rapidly iterate on the content and feel, I use mobirise to build the site.
+Simply put, it takes index.html and serves it to ignifymedia.github.io.
 
-Just push to `main` branch to update changes live.
+One can easily edit the index.html and other assets by hand,
+but I use Mobirise version 5.6.5 to rapidly iterate
+the content and feel of the site
+
+Just "Publish" to "Local Drive Folder" and check in the resulting changes in git,
+and push to `main` branch to update changes live.
 
 ## How to update the website when Github integration doesn't work
 
 ```
-TL;DR: upload manually to Github repository and setup `main` branch as the default Github Pages branch.
+TL;DR: upload manually to Github repository and setup
+`main` branch as the default Github Pages branch.
 ```
 
-Here is a workaround until Mobirise fixes the bugs. The following details how to upload manually to Github. Once you are familiar with the steps it takes roughly 2 minutes to do.
+Here is a workaround until Mobirise fixes the bugs. The following details how to upload manually to Github.
+Once you are familiar with the steps it takes roughly 2 minutes to do.
 
 1. Create the repository on your github that you will use to host the site. (if it doesn't already exist)
 2. Tell mobirise to `Publish` to a `Local Drive Folder`, instead of Github. Make sure this is a new empty folder where you will remember its location.
